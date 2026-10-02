@@ -5,17 +5,13 @@ goals scored in sport games. The models are primarily aimed at modelling
 and predicting football (soccer) scores, but could also be applicable
 for similar sports, such as hockey and handball.
 
-If you find this package useful, please consider supporting the
-development at <https://ko-fi.com/opisthokonta>
 
-[![ko-fi banner and
-link](README_files/SupportMe_red@2x_scaled.png)](https://ko-fi.com/opisthokonta)
 
 # Installation
 
 ``` r
 install.packages("devtools")
-devtools::install_github("opisthokonta/goalmodel")
+devtools::install_github("ryan00x/Goal-Model")
 ```
 
 # Whats new
